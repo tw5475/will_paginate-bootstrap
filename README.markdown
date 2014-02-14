@@ -41,7 +41,7 @@ Starting at version 1.0, this gem no longer supports Bootstrap 2.
 <table>
 	<tr>
 		<th>Ruby</th>
-		<td>>= 1.9.2</td>
+		<td>>= 1.8.7</td>
 	</tr>
 	<tr>
 		<th>will_paginate</th>
